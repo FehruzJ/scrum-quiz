@@ -1,0 +1,16 @@
+.timer {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.timer p {
+    font-size: 18px;
+    color: #333;
+    margin: 0;
+}
